@@ -1,0 +1,56 @@
+[
+  {
+    "content": "Add Compromised Data Set API (cds) - search, export, node endpoints",
+    "status": "completed",
+    "priority": "high",
+    "id": "8"
+  },
+  {
+    "content": "Add Combo Binder API (cb) - search and export endpoints",
+    "status": "completed",
+    "priority": "high",
+    "id": "9"
+  },
+  {
+    "content": "Add ULP Binder API (ub) - search and export endpoints",
+    "status": "completed",
+    "priority": "high",
+    "id": "10"
+  },
+  {
+    "content": "Add Government Monitoring API (gm) - search endpoint",
+    "status": "completed",
+    "priority": "high",
+    "id": "11"
+  },
+  {
+    "content": "Add Leaked Monitoring API (lm) - search endpoint",
+    "status": "completed",
+    "priority": "high",
+    "id": "12"
+  },
+  {
+    "content": "Add file download endpoints for dt and tt services",
+    "status": "completed",
+    "priority": "medium",
+    "id": "13"
+  },
+  {
+    "content": "Add pagination search endpoints for dt and tt services",
+    "status": "completed",
+    "priority": "medium",
+    "id": "14"
+  },
+  {
+    "content": "Add Management API (user quotas) endpoint",
+    "status": "completed",
+    "priority": "medium",
+    "id": "15"
+  },
+  {
+    "content": "Update MCP server to register all new tools",
+    "status": "completed",
+    "priority": "high",
+    "id": "16"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "content": "Create mole_mcp package structure",
+    "status": "completed",
+    "priority": "high",
+    "id": "1"
+  },
+  {
+    "content": "Implement StealthMole API client",
+    "status": "completed",
+    "priority": "high",
+    "id": "2"
+  },
+  {
+    "content": "Implement MCP server with tools",
+    "status": "completed",
+    "priority": "high",
+    "id": "3"
+  },
+  {
+    "content": "Create configuration files",
+    "status": "completed",
+    "priority": "medium",
+    "id": "4"
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "content": "Analyze the three export files to understand their structure and differences",
+    "status": "completed",
+    "priority": "high",
+    "id": "1"
+  },
+  {
+    "content": "Update the three specific export functions to use the generic export_data function",
+    "status": "completed",
+    "priority": "high",
+    "id": "2"
+  },
+  {
+    "content": "Check where the three export functions are imported/used",
+    "status": "completed",
+    "priority": "high",
+    "id": "3"
+  },
+  {
+    "content": "Update server.py to remove specific export tool definitions",
+    "status": "completed",
+    "priority": "high",
+    "id": "4"
+  },
+  {
+    "content": "Update __init__.py to remove imports",
+    "status": "completed",
+    "priority": "medium",
+    "id": "5"
+  },
+  {
+    "content": "Update client.py to remove imports",
+    "status": "completed",
+    "priority": "medium",
+    "id": "6"
+  },
+  {
+    "content": "Remove the three redundant export files",
+    "status": "completed",
+    "priority": "high",
+    "id": "7"
+  }
+]

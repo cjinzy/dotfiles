@@ -1,0 +1,32 @@
+[
+  {
+    "content": "server.py에 글로벌 결과 저장소 및 Resource 시스템 구현",
+    "status": "completed",
+    "priority": "high",
+    "id": "1"
+  },
+  {
+    "content": "handle_list_resources 함수 구현",
+    "status": "completed",
+    "priority": "high",
+    "id": "2"
+  },
+  {
+    "content": "handle_read_resource 함수 구현",
+    "status": "completed",
+    "priority": "high",
+    "id": "3"
+  },
+  {
+    "content": "handle_call_tool 함수 수정 (결과를 캐시에 저장)",
+    "status": "completed",
+    "priority": "high",
+    "id": "4"
+  },
+  {
+    "content": "테스트 및 검증",
+    "status": "completed",
+    "priority": "high",
+    "id": "5"
+  }
+]

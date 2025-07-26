@@ -1,0 +1,20 @@
+[
+  {
+    "content": "Analyze project structure and dependencies",
+    "status": "completed",
+    "priority": "high",
+    "id": "1"
+  },
+  {
+    "content": "Create Dockerfile based on project requirements",
+    "status": "completed",
+    "priority": "high",
+    "id": "2"
+  },
+  {
+    "content": "Add .dockerignore file for optimization",
+    "status": "completed",
+    "priority": "medium",
+    "id": "3"
+  }
+]

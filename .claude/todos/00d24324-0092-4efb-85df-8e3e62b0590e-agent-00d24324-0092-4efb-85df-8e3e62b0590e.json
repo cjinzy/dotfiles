@@ -1,0 +1,32 @@
+[
+  {
+    "content": "Create ResultStorage class for storing tool results",
+    "status": "completed",
+    "priority": "high",
+    "id": "1"
+  },
+  {
+    "content": "Update handle_list_resources to show stored results",
+    "status": "completed",
+    "priority": "high",
+    "id": "2"
+  },
+  {
+    "content": "Update handle_read_resource to return stored results",
+    "status": "completed",
+    "priority": "high",
+    "id": "3"
+  },
+  {
+    "content": "Modify handle_call_tool to store results and return resource URI",
+    "status": "completed",
+    "priority": "high",
+    "id": "4"
+  },
+  {
+    "content": "Add resource URI to tool response text",
+    "status": "completed",
+    "priority": "medium",
+    "id": "5"
+  }
+]

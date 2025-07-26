@@ -1,0 +1,26 @@
+[
+  {
+    "content": "현재 프로젝트 구조 파악 및 기존 MCP 관련 코드 확인",
+    "status": "completed",
+    "priority": "high",
+    "id": "1"
+  },
+  {
+    "content": "Claude API + MCP 클라이언트 코드 작성",
+    "status": "in_progress",
+    "priority": "high",
+    "id": "2"
+  },
+  {
+    "content": "MCP 서버와의 통신 구현",
+    "status": "pending",
+    "priority": "medium",
+    "id": "3"
+  },
+  {
+    "content": "예제 코드 및 사용법 구현",
+    "status": "pending",
+    "priority": "low",
+    "id": "4"
+  }
+]

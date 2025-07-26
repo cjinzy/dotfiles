@@ -1,0 +1,32 @@
+[
+  {
+    "content": "Search dark web for yamatochiaki.netlify.app domain",
+    "status": "completed",
+    "priority": "high",
+    "id": "1"
+  },
+  {
+    "content": "Search Telegram for yamatochiaki.netlify.app references",
+    "status": "completed",
+    "priority": "high",
+    "id": "2"
+  },
+  {
+    "content": "Search for leaked credentials related to the domain",
+    "status": "in_progress",
+    "priority": "medium",
+    "id": "3"
+  },
+  {
+    "content": "Search for similar sites or related URLs",
+    "status": "pending",
+    "priority": "medium",
+    "id": "4"
+  },
+  {
+    "content": "Save all search results to files",
+    "status": "pending",
+    "priority": "low",
+    "id": "5"
+  }
+]

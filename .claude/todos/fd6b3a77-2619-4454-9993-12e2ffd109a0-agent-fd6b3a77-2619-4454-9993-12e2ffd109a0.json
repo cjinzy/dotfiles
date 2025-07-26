@@ -1,0 +1,26 @@
+[
+  {
+    "content": "Write comprehensive English README.md",
+    "status": "completed",
+    "priority": "high",
+    "id": "1"
+  },
+  {
+    "content": "Write comprehensive Korean README.ko.md",
+    "status": "completed",
+    "priority": "high",
+    "id": "2"
+  },
+  {
+    "content": "Add badges and visual elements to both READMEs",
+    "status": "completed",
+    "priority": "medium",
+    "id": "3"
+  },
+  {
+    "content": "Verify all code examples and commands work correctly",
+    "status": "completed",
+    "priority": "medium",
+    "id": "4"
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "content": "매개변수 이름을 indicator에서 query로 통일",
+    "status": "completed",
+    "priority": "high",
+    "id": "1"
+  },
+  {
+    "content": "함수 docstring의 매개변수 설명 개선",
+    "status": "completed",
+    "priority": "medium",
+    "id": "2"
+  },
+  {
+    "content": "모든 검색 함수의 일관성 검증",
+    "status": "completed",
+    "priority": "medium",
+    "id": "3"
+  }
+]

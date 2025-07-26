@@ -1,0 +1,32 @@
+[
+  {
+    "content": "HTTP 서버에서 stdio로 복원",
+    "status": "completed",
+    "priority": "high",
+    "id": "1"
+  },
+  {
+    "content": "Express 의존성 제거",
+    "status": "completed",
+    "priority": "high",
+    "id": "2"
+  },
+  {
+    "content": "StdioServerTransport로 복원",
+    "status": "completed",
+    "priority": "high",
+    "id": "3"
+  },
+  {
+    "content": "빌드 테스트",
+    "status": "completed",
+    "priority": "high",
+    "id": "4"
+  },
+  {
+    "content": "node_modules 정리",
+    "status": "completed",
+    "priority": "high",
+    "id": "5"
+  }
+]
