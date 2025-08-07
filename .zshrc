@@ -130,3 +130,9 @@ unset __conda_setup
 
 
 . "$HOME/.local/bin/env"
+
+export PATH=$PATH:/Users/realsun/.spicetify
+
+# Task Master aliases added on 2025. 8. 6.
+alias tm='task-master'
+alias taskmaster='task-master'
